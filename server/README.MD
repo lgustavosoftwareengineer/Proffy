@@ -1,4 +1,4 @@
-# Functionalidades
+# Funcionalidades
 
 ## Conexões
 
